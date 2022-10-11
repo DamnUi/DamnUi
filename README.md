@@ -2,7 +2,7 @@
 
 ## I'm a Developer/Nobody
 
-- Currently also making [PyStats](https://github.com/DamnUi/PyStats) backended completely by [rich](https://github.com/Textualize/rich)
+- Currently also making [PyStats](https://github.com/DamnUi/PyStats) frontended completely by [rich](https://github.com/Textualize/rich)
 - Im currently learning Python
 
 ## Connect
