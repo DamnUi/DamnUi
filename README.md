@@ -1,5 +1,5 @@
 <div align="center">
-# 💫
+💫<br>
 **Python Dev**<br>Can help with python projects just hit me up on my discord <br>Learning Java
 </div>
 
