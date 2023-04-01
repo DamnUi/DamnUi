@@ -1,6 +1,6 @@
 
 <div align="center">
-## 💫
+💫
 </div>
 <p style="text-align: center;">**Python Dev**<br>Can help with python projects just hit me up on my discord <br>Learning Java</p>
 
