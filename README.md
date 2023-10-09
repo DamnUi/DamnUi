@@ -32,7 +32,7 @@ Python dev
 <div align="center">
   Want help?
   <br>
-    Nonza⁹⁹⁹#0188
+    nonja.
 </div>
 
 
