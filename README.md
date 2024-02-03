@@ -32,7 +32,7 @@ Python dev
 <div align="center">
   Want help?
   <br>
-    nonja.
+    nonja.\n
   https://e-z.bio/nonja
 </div>
 
