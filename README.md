@@ -34,5 +34,9 @@ Python dev
   <br>
     [nonja.](https://e-z.bio/nonja)
 </div>
+</div>
+<div align="center">
+    (bio for more socials)https://e-z.bio/nonja
+</div>
 
 
