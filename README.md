@@ -32,8 +32,7 @@ Python dev
 <div align="center">
   Want help?
   <br>
-    (nonja.)[
-  https://e-z.bio/nonja]
+    [nonja.](https://e-z.bio/nonja)
 </div>
 
 
