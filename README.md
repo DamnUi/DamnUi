@@ -36,7 +36,7 @@ Python dev
 </div>
 </div>
 <div align="center">
-    https://e-z.bio/nonja
+
 </div>
 
 
