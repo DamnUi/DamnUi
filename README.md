@@ -32,7 +32,7 @@ Python dev
 <div align="center">
   Want help?
   <br>
-    nonja
+    nonja.
 </div>
 </div>
 <div align="center">
